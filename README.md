@@ -7,4 +7,5 @@
 
 
 ##### if fail to run batch file, open the .js with vs code n run npm install
-##### run node app.js , or run3.bat
+##### type node app.js at console/terminal , or run3.bat again.
+
